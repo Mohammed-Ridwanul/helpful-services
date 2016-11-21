@@ -6,3 +6,6 @@ http://www.highcharts.com/
 
 IMAGE AND VIDEO RECOGNITION API - Useful for tagging  
 https://www.clarifai.com/  
+
+IMDB API/ Movie database API  
+https://www.themoviedb.org/documentation/api  
