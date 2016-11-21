@@ -9,3 +9,9 @@ https://www.clarifai.com/
 
 IMDB API/ Movie database API  
 https://www.themoviedb.org/documentation/api  
+
+Pingdom API  
+https://www.pingdom.com/resources/api  
+
+Automated testing of sites  
+http://www.nightmarejs.org/  
