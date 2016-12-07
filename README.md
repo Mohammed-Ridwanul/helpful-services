@@ -15,3 +15,6 @@ https://www.pingdom.com/resources/api
 
 Automated testing of sites  
 http://www.nightmarejs.org/  
+
+Turbograft extends Turbolinks, allowing you to perform partial page refreshes.
+https://github.com/Shopify/turbograft
